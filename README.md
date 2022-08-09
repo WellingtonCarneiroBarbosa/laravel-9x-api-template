@@ -1,14 +1,10 @@
-# Chegow Api Gateway
+# Laravel API Template
 
-The main Chegow API Gateway.
-
-## Docs
-
-[https://chegow.com/api/docs](https://chegow.com/api/docs)
+A template for Laravel Api's.
 
 ## Instalation (development)
 
-1. `git clone git@github.com:Chegow/api-gateway.git && cd api-gateway`
+1. `git clone git@github.com:WellingtonCarneiroBarbosa/laravel-api-template.git && cd laravel-api-template`
 
 2. `composer install`
 
