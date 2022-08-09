@@ -16,4 +16,4 @@ A template for Laravel Api's.
 
 ## Comands (development)
 
-//
+`composer fix` - Fix all files with php-cs-fixer
