@@ -1,8 +1,8 @@
 {
-    "name": "chegow/api-gateway",
+    "name": "wellingtoncarneirobarbosa/laravel-api-tempalte",
     "type": "project",
-    "description": "The Official Chegow API Gateway.",
-    "keywords": ["chegow", "api-gateway"],
+    "description": "A template for laravel api's.",
+    "keywords": ["wellingtoncarneirobarbosa", "laravel", "api", "template"],
     "require": {
         "php": "^8.1",
         "guzzlehttp/guzzle": "^7.2",
