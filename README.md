@@ -6,13 +6,15 @@ A template for Laravel 9.x Api's.
 
 1. `git clone git@github.com:WellingtonCarneiroBarbosa/laravel-9x-api-template.git && cd laravel-9x-api-template`
 
-2. `composer install`
+2. `rm -rf .git && git init` - (setup your git repo)
 
-3. Setup your .env
+3. `composer install`
 
-4. `php artisan migrate --seed`
+4. Setup your .env
 
-5. `php artisan serve`
+5. `php artisan migrate --seed`
+
+6. `php artisan serve`
 
 ## Comands (development)
 
