@@ -1,6 +1,6 @@
-# Laravel API Template
+# Laravel 9.x API Template
 
-A template for Laravel Api's.
+A template for Laravel 9.x Api's.
 
 ## Instalation (development)
 
