@@ -16,3 +16,5 @@ yarn-error.log
 /.vscode
 .php-cs-fixer.cache
 /tools/**/vendor
+_ide_helper.php
+.phpstorm.meta.php
