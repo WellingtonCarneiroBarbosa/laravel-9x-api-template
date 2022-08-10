@@ -40,13 +40,15 @@
             "composer install-tools",
             "@php -r \"file_exists('.env') || copy('.env.example', '.env');\"",
             "composer fix",
-            "composer ide-helper"
+            "composer ide-helper",
+            "composer doc-api"
         ],
         "post-update-cmd": [
             "@php artisan vendor:publish --tag=laravel-assets --ansi --force",
             "composer update-tools",
             "composer fix",
-            "composer ide-helper"
+            "composer ide-helper",
+            "composer doc-api"
         ],
         "post-root-package-install": [
             "@php -r \"file_exists('.env') || copy('.env.example', '.env');\""
