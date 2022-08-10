@@ -18,3 +18,4 @@ yarn-error.log
 /tools/**/vendor
 _ide_helper.php
 .phpstorm.meta.php
+.scribe

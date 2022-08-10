@@ -2,6 +2,10 @@
 
 A template for Laravel 9.x Api's.
 
+## API Documentation
+
+[http://localhost:8000/docs](http://localhost:8000/docs)
+
 ## Instalation (development)
 
 1. `git clone git@github.com:WellingtonCarneiroBarbosa/laravel-9x-api-template.git && cd laravel-9x-api-template`
@@ -23,3 +27,5 @@ A template for Laravel 9.x Api's.
 `composer ide-helper` - Generate ide-helper files
 <br>
 You should install [laravel-ide-helper extension](https://marketplace.visualstudio.com/items?itemName=georgykurian.laravel-ide-helper)
+
+`composer doc-api` - Generate documentation for API Routes.
